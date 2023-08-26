@@ -1,6 +1,7 @@
-only works with ESP32S3 Lilygo t-displayS3 Touch
+Only works with ESP32S3 Lilygo t-displayS3 Touch
 
 Upload using Espressif Flash Tool
+
 0x0 touchSlider100.ino.bootloader.bin
 
 0x8000 touchSlider100.ino.partitions.bin
@@ -12,10 +13,10 @@ Upload using Espressif Flash Tool
 After ESP32 boot wait for 3 min until network scanning is completed.
 Open the wifi in your phone and search for AH_Radio
 Connect to your network
-Wait for 5 min for the Spiff format to be completed
+Wait for 5 minutes for the Spiff format to be completed
 Look at the LCD for the IP address
-connect to that Ip Address using your computer browser
-upload single station or list of stations using the following format
+connect to that IP address using your computer browser
+Upload a single station or list of stations using the following format
 
 Station Name 1,Station Address 1
 Station Name 2,Station Address 2
@@ -25,8 +26,8 @@ Radio Hits,http://stream.awesomehitsradio.com
 .
 .
 .
-Note: the webserver is only working after boot, 
-it will stop working once you touch the touch screen. 
+Note: The webserver is only working after boot, 
+it will stop working once you touch the screen. 
 To reactivate it you will need to reboot the radio.
 .
 Connect the I2S DAC to the following pins:
