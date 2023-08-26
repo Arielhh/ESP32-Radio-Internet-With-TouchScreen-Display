@@ -19,6 +19,7 @@ connect to that IP address using your computer browser
 Upload a single station or list of stations using the following format
 
 Station Name 1,Station Address 1
+
 Station Name 2,Station Address 2
 
 Radio Ariel,http://123.456.789.0/stream
