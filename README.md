@@ -13,7 +13,7 @@ After ESP32 boot wait for 3 min until network scanning is completed.
 Open the wifi in your phone and search for AH_Radio
 Connect to your network
 Wait for 5 minutes for the Spiff format to be completed
-Look at the LCD for the IP address
+(You might need to turn off/on the radio) Look at the LCD for the IP address
 connect to that IP address using your computer browser
 Upload a single station or list of stations using the following format
 
