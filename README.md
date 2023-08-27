@@ -1,4 +1,7 @@
 Only works with ESP32S3 Lilygo t-displayS3 Touch
+you can watch the videos:
+https://youtu.be/HgioXrjpPSk?feature=shared
+https://youtu.be/gyk2eq8ZymM?feature=shared
 
 Upload using Espressif Flash Tool
 0x0 touchSlider100.ino.bootloader.bin
