@@ -22,9 +22,7 @@ Radio Hits,http://stream.awesomehitsradio.com
 .
 .
 .
-Note: the webserver is only working after boot, 
-it will stop working once you touch the touch screen. 
-To reactivate it you will need to reboot the radio.
+.
 .
 Connect the I2S DAC to the following pins:
 #define I2S_BCLK 12
