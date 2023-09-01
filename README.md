@@ -14,6 +14,8 @@ Upload using Espressif Flash Tool
 0x8000 touchSlider100.ino.partitions.bin
 0xe000 boot_app0.bin
 0x10000 touchSlider100.ino.bin
+
+
 ![WhatsApp Image 2023-09-01 at 13 55 48](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/db2f634a-4fb8-4936-bf85-d655123cbe20)
 
 After ESP32 boot wait for 3 min until network scanning is completed.
