@@ -43,7 +43,7 @@ To reactivate it you will need to reboot the radio.
 Note: 1. The boot_app0.bin file is included with the Lilygo flash tool in the bin directory.
       2. An I2S DAC is required for this project, Amplifier is optional.  Consult the I2S data sheet to learn how to activate the (L+R)/2 or stereo signal.  
 
-Note: for some stations that doesn't play and starts with https:// try to change to http:// and check if it is working
+Note: for some stations that don't play and their URL starts with https:// try to change it to http:// and check if it is working
 
 .
 Connect the I2S DAC to the following pins:
