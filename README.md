@@ -39,6 +39,9 @@ Radio Hits,http://stream.awesomehitsradio.com
 Note: The webserver is only working after boot, 
 it will stop working once you touch the screen. 
 To reactivate it you will need to reboot the radio.
+
+Note: 1. The boot_app0.bin file is included with the Lilygo flash tool in the bin directory.
+      2. An I2S DAC is required for this project, Amplifier is optional.  Consult the I2S data sheet to learn how to activate the (L+R)/2 or stereo signal.  
 .
 Connect the I2S DAC to the following pins:
 #define I2S_BCLK 12
@@ -75,7 +78,8 @@ Connect the I2S DAC to the following pins:
 
 #define PIN_IIC_SCL 17
 #define PIN_IIC_SDA 18
-
 #define PIN_TOUCH_INT 16
 #define PIN_TOUCH_RES 21
 
+
+      
