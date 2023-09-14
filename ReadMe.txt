@@ -29,6 +29,8 @@ Connect the I2S DAC to the following pins:
 #define I2S_LRC 11
 #define I2S_DOUT 13
 
+Note: 1. The boot_app0.bin file is included with the Lilygo flash tool in the bin directory.
+       2. An I2S DAC is required for this project, Amplifier is optional.  Consult the I2S data sheet to learn how to activate the (L+R)/2 or stereo signal.  
 
 /*ESP32S3*/
 #define PIN_LCD_BL 38
