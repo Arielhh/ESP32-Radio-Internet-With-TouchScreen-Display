@@ -84,5 +84,8 @@ Connect the I2S DAC to the following pins:
 #define PIN_TOUCH_INT 16
 #define PIN_TOUCH_RES 21
 
-
+Connection diagram using the Max98357a chip (if you use a header you don't need to connect wires as the pins are arranged correctly). 
       
+
+![#define I2S_BCLK 12 #define I2S_LRC 11 #define I2S_DOUT 13](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/01d28d65-6a7c-488d-b9be-5a0989937efb)
+
