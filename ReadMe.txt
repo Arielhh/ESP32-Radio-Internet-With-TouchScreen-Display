@@ -22,7 +22,7 @@ Radio Hits,http://stream.awesomehitsradio.com
 .
 .
 .
-.
+You can find station URL's here: https://streamurl.link/ 
 .
 Connect the I2S DAC to the following pins:
 #define I2S_BCLK 12
