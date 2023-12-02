@@ -34,7 +34,7 @@ Radio Ariel,http://123.456.789.0/stream
 
 Radio Hits,http://stream.awesomehitsradio.com
 .
-.
+You can find station URL's here: https://streamurl.link/
 .
 Note: The webserver is only working after boot, 
 it will stop working once you touch the screen. 
