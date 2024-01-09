@@ -97,13 +97,14 @@ GND to GND
 
 Following is the connection diagram:
 
-https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/01d28d65-6a7c-488d-b9be-5a0989937efb
+![image](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/d405b0ce-b7a1-45ff-980c-08a1a25e7c60)
 
-https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/ba58d639-86a4-468c-be40-080cd5bb06d6
 
-https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/7131c6dc-841c-486b-a339-76b004c29bfc
+![image](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/c8c65006-bf70-4d20-8956-596c9431f0fc)
 
-https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/c0c5554b-e625-47fc-b1f9-4bbbfa024bc4
+
+![image](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/88fd5636-100d-48d0-98b3-11ea5aba370b)
+
 
 ![image](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/d6fd0191-0bdb-4603-8089-db5a063e00e1)
 
