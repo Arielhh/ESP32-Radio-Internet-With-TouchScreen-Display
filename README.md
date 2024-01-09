@@ -89,10 +89,10 @@ I strongly recommend using the PCM5102a for better sound quality.
  
  
 Connect the I2S DAC to the following pins: 
-BCLK to pin 12 
-LRC to pin 11 
-DOUT to pin 13
-VCC to 5V
+BCLK to pin 12, 
+LRC to pin 11, 
+DOUT to pin 13,
+VCC to 5V,
 GND to GND
 
 Following is the connection diagram:
