@@ -104,4 +104,7 @@ https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/ba58d639-86a4-468
 https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/7131c6dc-841c-486b-a339-76b004c29bfc
 
 https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/c0c5554b-e625-47fc-b1f9-4bbbfa024bc4
-https://github-production-user-asset-6210df.s3.amazonaws.com/4849568/295190173-c0c5554b-e625-47fc-b1f9-4bbbfa024bc4.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240109T114730Z&X-Amz-Expires=300&X-Amz-Signature=d1216cec12ec5c011ee11db1255d503089b2c967990f96492a48092153a80bee&X-Amz-SignedHeaders=host&actor_id=4849568&key_id=0&repo_id=683325167
+
+![image](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/d6fd0191-0bdb-4603-8089-db5a063e00e1)
+
+
