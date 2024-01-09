@@ -87,8 +87,11 @@ Connect the I2S DAC to the following pins:
 Connection diagram using the Max98357a chip (if you use a header you don't need to connect wires as the pins are arranged correctly). 
 I strongly recommend using the PCM5102a for better sound quality.      
 
+Following is the connection diagram:
 (https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/01d28d65-6a7c-488d-b9be-5a0989937efb)
 
 (https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/ba58d639-86a4-468c-be40-080cd5bb06d6)
+
 (https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/7131c6dc-841c-486b-a339-76b004c29bfc)
+
 (https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/c0c5554b-e625-47fc-b1f9-4bbbfa024bc4)
