@@ -10,6 +10,9 @@ https://youtu.be/HgioXrjpPSk?feature=shared
 https://youtu.be/gyk2eq8ZymM?feature=shared
 https://www.youtube.com/watch?v=cFctgusRfhY
 
+The espressif Flash Download Tools can be downloaded from here:
+https://www.espressif.com/en/support/download/other-tools
+
 Upload using Espressif Flash Tool
 0x0 touchSlider100.ino.bootloader.bin
 0x8000 touchSlider100.ino.partitions.bin
