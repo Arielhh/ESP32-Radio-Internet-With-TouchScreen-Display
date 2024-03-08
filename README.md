@@ -63,7 +63,7 @@ Following is the connection diagram:
 
 ![image](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/d405b0ce-b7a1-45ff-980c-08a1a25e7c60)
 
-Just solder it like that and connect it to the speaker:
+Just solder it like that and connect it to the speaker (the pins are already aligned with the DAC pins):
 
 ![image](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/c8c65006-bf70-4d20-8956-596c9431f0fc)
 
