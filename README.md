@@ -49,48 +49,8 @@ Note: 1. The boot_app0.bin file is included with the Lilygo flash tool in the bi
 
 Note: for some stations that don't play and their URL starts with https:// try to change it to http:// and check if it is working
 
-.
-Connect the I2S DAC to the following pins:
-#define I2S_BCLK 12
-#define I2S_LRC 11
-#define I2S_DOUT 13
-
-
-/*ESP32S3*/
-#define PIN_LCD_BL 38
-
-#define PIN_LCD_D0 39
-#define PIN_LCD_D1 40
-#define PIN_LCD_D2 41
-#define PIN_LCD_D3 42
-#define PIN_LCD_D4 45
-#define PIN_LCD_D5 46
-#define PIN_LCD_D6 47
-#define PIN_LCD_D7 48
-#define I2S_BCLK 12
-#define I2S_LRC 11
-#define I2S_DOUT 13
-
-#define PIN_POWER_ON 15
-
-#define PIN_LCD_RES 5
-#define PIN_LCD_CS 6
-#define PIN_LCD_DC 7
-#define PIN_LCD_WR 8
-#define PIN_LCD_RD 9
-
-#define PIN_BUTTON_1 0
-#define PIN_BUTTON_2 14
-#define PIN_BAT_VOLT 4
-
-#define PIN_IIC_SCL 17
-#define PIN_IIC_SDA 18
-#define PIN_TOUCH_INT 16
-#define PIN_TOUCH_RES 21
-
-Connection diagram using the Max98357a chip (if you use a header you don't need to connect wires as the pins are arranged correctly). 
+.Connection diagram using the Max98357a chip (if you use a header you don't need to connect wires as the pins are arranged correctly). 
 I strongly recommend using the PCM5102a for better sound quality.      
- 
  
 Connect the I2S DAC to the following pins: 
 BCLK to pin 12, 
