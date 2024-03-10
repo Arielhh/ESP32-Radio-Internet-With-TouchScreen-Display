@@ -1,3 +1,6 @@
+You can build It: https://www.tindie.com/products/6659291/diy-internet-radio-firmware-only/
+https://www.ko-fi.com/s/58ace66c90
+
 
 ![WOW (1)](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/c3e2c1ed-ae2e-4ef1-8c4e-736ea6311608)
 
