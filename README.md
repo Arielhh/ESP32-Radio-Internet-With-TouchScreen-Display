@@ -3,7 +3,8 @@ https://www.tindie.com/products/6659291/diy-internet-radio-firmware-only/
 
 https://www.ko-fi.com/s/58ace66c90
 
-![Flash_Tool_Map](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/1e0e4594-c316-4a2d-9c1b-e1e0c06b6a90)
+![new](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/67354aed-3f15-427f-bfea-c4d8dc057027)
+
 
 
 
