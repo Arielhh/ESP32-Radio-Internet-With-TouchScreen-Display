@@ -3,11 +3,6 @@ https://www.tindie.com/products/6659291/diy-internet-radio-firmware-only/
 
 https://www.ko-fi.com/s/58ace66c90
 
-![new](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/67354aed-3f15-427f-bfea-c4d8dc057027)
-
-
-
-
 Only works with ESP32S3 Lilygo t-displayS3 Touch
 you can watch the videos:
 https://youtu.be/HgioXrjpPSk?feature=shared
@@ -18,12 +13,9 @@ The espressif Flash Download Tools can be downloaded from here:
 https://www.espressif.com/en/support/download/other-tools
 
 Upload using Espressif Flash Tool
-0x0 touchSlider100.ino.bootloader.bin
-0x8000 touchSlider100.ino.partitions.bin
-0xe000 boot_app0.bin
-0x10000 touchSlider100.ino.bin
+My_Radio.ino  0x0000
 
-![WhatsApp Image 2024-03-12 at 11 03 01_459e10ef](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/350b291e-35a2-483d-9aff-d91445352cf8)
+![new](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/67354aed-3f15-427f-bfea-c4d8dc057027)
 
 After ESP32 boot wait for 3 min until network scanning is completed.
 Open the wifi in your phone and search for AH_Radio
