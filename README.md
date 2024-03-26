@@ -57,15 +57,13 @@ GND to GND
 Following is the connection diagram:
 ![2000](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/eb7a9487-50be-4602-b988-5af08c9675d4)
 
-![image](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/d405b0ce-b7a1-45ff-980c-08a1a25e7c60)
-
 Just solder it like that and connect it to the speaker (the pins are already aligned with the DAC pins):
 
 
 ![2001](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/cfae9a96-6d9e-48fd-bd41-e1cd02ca62a5)
 
 
-
+![image](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/d405b0ce-b7a1-45ff-980c-08a1a25e7c60)
 ![image](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/d6fd0191-0bdb-4603-8089-db5a063e00e1)
 
 
