@@ -17,7 +17,7 @@ My_Radio.ino  0x0000
 
 ![new](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/67354aed-3f15-427f-bfea-c4d8dc057027)
 
-After ESP32 boot wait for 3 min until network scanning is completed.
+After ESP32 boot wait for few min until network scanning is completed.
 Open the wifi in your phone and search for AH_Radio
 Connect to your network
 Wait for 5 minutes for the Spiff format to be completed
@@ -34,10 +34,6 @@ Radio Ariel,http://123.456.789.0/stream
 Radio Hits,http://stream.awesomehitsradio.com
 .
 You can find station URL's here: https://streamurl.link/
-.
-Note: The webserver is only working after boot, 
-it will stop working once you touch the screen. 
-To reactivate it you will need to reboot the radio.
 
 Note: 1. The boot_app0.bin file is included with the Lilygo flash tool in the bin directory.
       2. An I2S DAC is required for this project, Amplifier is optional.  Consult the I2S data sheet to learn how to activate the (L+R)/2 or stereo signal.  
@@ -65,5 +61,4 @@ Just solder it like that and connect it to the speaker (the pins are already ali
 
 ![image](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/d405b0ce-b7a1-45ff-980c-08a1a25e7c60)
 ![image](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/d6fd0191-0bdb-4603-8089-db5a063e00e1)
-
 
