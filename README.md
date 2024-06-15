@@ -1,7 +1,9 @@
 
 This is a fully functional Internet Radio Based on ESP32-S3
+
 Note: it was designed to work only with ESP32S3 Lilygo t-displayS3 Touch or an ESP32-S3 and 170x320 touch screnn that share the same caracteristics
-Please watch my youtube videos here:
+
+You can watch the youtube videos here:
 https://youtu.be/HgioXrjpPSk?feature=shared
 https://youtu.be/gyk2eq8ZymM?feature=shared
 https://www.youtube.com/watch?v=cFctgusRfhY
