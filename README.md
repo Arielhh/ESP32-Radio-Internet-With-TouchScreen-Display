@@ -1,20 +1,17 @@
-You can build It: 
-https://www.tindie.com/products/6659291/internet-radio-with-touch-screen-v2/
-https://www.tindie.com/products/6659291/internet-radio-with-touch-screen-v2-firmware-only/
 
-https://www.ko-fi.com/s/58ace66c90
-
-Only works with ESP32S3 Lilygo t-displayS3 Touch
-you can watch the videos:
+This is a fully functional Internet Radio Based on ESP32-S3
+Note: it was designed to work only with ESP32S3 Lilygo t-displayS3 Touch or an ESP32-S3 and 170x320 touch screnn that share the same caracteristics
+Please watch my youtube videos here:
 https://youtu.be/HgioXrjpPSk?feature=shared
 https://youtu.be/gyk2eq8ZymM?feature=shared
 https://www.youtube.com/watch?v=cFctgusRfhY
-Files repository: https://1drv.ms/f/s!AtdSBdR1Gbo4emcDm8-6_pUZIXc?e=i8rn3N
+
+The files can be found in the following repository: https://1drv.ms/f/s!AtdSBdR1Gbo4emcDm8-6_pUZIXc?e=i8rn3N
 
 The espressif Flash Download Tools can be downloaded from here:
 https://www.espressif.com/en/support/download/other-tools
 
-Upload using Espressif Flash Tool
+Uploading the firmware is done using the Espressif Flash Tool
 My_Radio.ino  0x0000
 
 ![new](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/67354aed-3f15-427f-bfea-c4d8dc057027)
