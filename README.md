@@ -8,7 +8,7 @@ https://youtu.be/HgioXrjpPSk?feature=shared
 https://youtu.be/gyk2eq8ZymM?feature=shared
 https://www.youtube.com/watch?v=cFctgusRfhY
 
-The files can be found in the following repository: https://1drv.ms/f/s!AtdSBdR1Gbo4emcDm8-6_pUZIXc?e=i8rn3N
+My repository: https://1drv.ms/f/s!AtdSBdR1Gbo4emcDm8-6_pUZIXc?e=i8rn3N
 
 The espressif Flash Download Tools can be downloaded from here:
 https://www.espressif.com/en/support/download/other-tools
