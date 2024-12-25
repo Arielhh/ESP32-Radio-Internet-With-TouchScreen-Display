@@ -5,10 +5,12 @@ Note: it was designed to work only with ESP32S3 Lilygo t-displayS3 Touch or an E
 
 You can watch the youtube videos here:
 https://youtu.be/HgioXrjpPSk?feature=shared
+
 https://youtu.be/gyk2eq8ZymM?feature=shared
+
 https://www.youtube.com/watch?v=cFctgusRfhY
 
-My repository: [https://1drv.ms/f/s!AtdSBdR1Gbo4emcDm8-6_pUZIXc?e=i8rn3N](https://1drv.ms/f/c/38ba1975d40552d7/EtdSBdR1GboggDh6AAAAAAABXGewSTWX4JG938piuGl--g)
+My repository: https://1drv.ms/f/c/38ba1975d40552d7/EtdSBdR1GboggDh6AAAAAAABXGewSTWX4JG938piuGl--g
 
 The espressif Flash Download Tools can be downloaded from here:
 https://www.espressif.com/en/support/download/other-tools
