@@ -5,7 +5,7 @@
 
 ![IMG_3576](https://github.com/user-attachments/assets/ca0a1ff1-3cd8-4685-a9a8-28e3d01f89e3)
 
-
+Email me if you have any questions: themicromaker@outlook.com
 
 This is a fully functional Internet Radio Based on ESP32-S3
 
@@ -19,7 +19,7 @@ https://youtu.be/gyk2eq8ZymM?feature=shared
 https://www.youtube.com/watch?v=cFctgusRfhY
 
 My repository: https://1drv.ms/f/c/38ba1975d40552d7/EtdSBdR1GboggDh6AAAAAAABXGewSTWX4JG938piuGl--g
-You can write me to: themicromaker@outlook.com
+
 
 The espressif Flash Download Tools can be downloaded from here:
 https://www.espressif.com/en/support/download/other-tools
