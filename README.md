@@ -11,7 +11,7 @@ This is a fully functional Internet Radio Based on ESP32-S3
 
 Note: it was designed to work only with ESP32S3 Lilygo t-displayS3 Touch or an ESP32-S3 and 170x320 touch screen that share the same caracteristics
 
-You can watch the youtube videos here:
+You can watch the Radio V1 youtube videos here (now we are on Radio V4 that has moere features - video is coming soon):
 https://youtu.be/HgioXrjpPSk?feature=shared
 
 https://youtu.be/gyk2eq8ZymM?feature=shared
