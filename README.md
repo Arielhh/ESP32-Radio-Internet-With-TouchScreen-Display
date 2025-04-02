@@ -19,6 +19,7 @@ https://youtu.be/gyk2eq8ZymM?feature=shared
 https://www.youtube.com/watch?v=cFctgusRfhY
 
 My repository: https://1drv.ms/f/c/38ba1975d40552d7/EtdSBdR1GboggDh6AAAAAAABXGewSTWX4JG938piuGl--g
+You can write me to: themicromaker@outlook.com
 
 The espressif Flash Download Tools can be downloaded from here:
 https://www.espressif.com/en/support/download/other-tools
