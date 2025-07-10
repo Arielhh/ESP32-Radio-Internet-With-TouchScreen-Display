@@ -9,11 +9,12 @@ Email me if you have any questions: themicromaker@outlook.com
 
 This is a fully functional Internet Radio Based on ESP32-S3
 
-Note: it was designed to work only with ESP32S3 Lilygo t-displayS3 Touch or an ESP32-S3 and 170x320 touch screen that share the same caracteristics
+Important Note: To enable the sound it is required to purchase a license key
 
-Note: To enable the sound it is required purchasing a license key
+Note: The Radio was designed to work only with ESP32S3 Lilygo t-displayS3 Touch or an ESP32-S3 and 170x320 touch screen that share the same caracteristics
 
-You can watch the Radio V1 and V4 youtube videos here:
+
+You can watch the Radio V1 and V4/5 youtube videos here:
 
 https://www.youtube.com/watch?v=8kRRnhr_VSs
 
