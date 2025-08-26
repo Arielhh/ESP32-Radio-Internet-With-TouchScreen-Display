@@ -39,10 +39,6 @@ My_Radio.ino  0x0000
 
 ![new](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/67354aed-3f15-427f-bfea-c4d8dc057027)
 
-![IMG_4067](https://github.com/user-attachments/assets/a20ece25-72aa-4b3f-93ca-11b82eedc690)
-
-you can watch the video here:
-https://youtu.be/UsdidMPg164
 
 After ESP32 boot wait for few min until network scanning is completed.
 Open the wifi in your phone and search for AH_Radio
@@ -93,3 +89,9 @@ Optional Pam8406 amplifier 2x6w amp+ pcm5102a Stereo DAC on one PCB which can be
 ![pam](https://github.com/user-attachments/assets/7c26c655-e0bc-49e2-af36-5a40c3ad6195)
 
 ![2024-06-06T10_59_08 115Z-WhatsApp Image 2024-06-06 at 12 58 08_e0c1f9cc (1)](https://github.com/user-attachments/assets/121381f5-67da-4633-869a-6491bd0f7263)
+
+
+![IMG_4067](https://github.com/user-attachments/assets/a20ece25-72aa-4b3f-93ca-11b82eedc690)
+
+you can watch the video here:
+https://youtu.be/UsdidMPg164
