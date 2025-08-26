@@ -28,6 +28,8 @@ My repository: https://tinyurl.com/4yduvmdj
 
 <img width="228" height="228" alt="image" src="https://github.com/user-attachments/assets/e6c9b7a2-3e71-4442-8183-ced2320a94c2" />
 
+There is also a Bluetooth version without ann internal speaker:
+
 
 The espressif Flash Download Tools can be downloaded from here:
 https://www.espressif.com/en/support/download/other-tools
@@ -37,6 +39,9 @@ My_Radio.ino  0x0000
 
 ![new](https://github.com/Arielhh/ESP32-Radio-Internet/assets/4849568/67354aed-3f15-427f-bfea-c4d8dc057027)
 
+![IMG_4067](https://github.com/user-attachments/assets/a20ece25-72aa-4b3f-93ca-11b82eedc690)
+
+https://youtu.be/UsdidMPg164
 
 After ESP32 boot wait for few min until network scanning is completed.
 Open the wifi in your phone and search for AH_Radio
