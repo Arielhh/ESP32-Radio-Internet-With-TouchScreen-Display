@@ -41,6 +41,7 @@ My_Radio.ino  0x0000
 
 ![IMG_4067](https://github.com/user-attachments/assets/a20ece25-72aa-4b3f-93ca-11b82eedc690)
 
+you can watch the video here:
 https://youtu.be/UsdidMPg164
 
 After ESP32 boot wait for few min until network scanning is completed.
