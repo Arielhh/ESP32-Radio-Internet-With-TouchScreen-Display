@@ -87,7 +87,7 @@ Just solder it like that and connect it to the speaker (the pins are already ali
 
 Optional Pam8406 amplifier 2x6w amp+ pcm5102a Stereo DAC on one PCB which can be mounted directlly on top of the LILYGO T-Display Touch S3 (no wires soldering needed)
 ![pam](https://github.com/user-attachments/assets/7c26c655-e0bc-49e2-af36-5a40c3ad6195)
-![IMG_4070](https://github.com/user-attachments/assets/b48e5057-e78e-432c-989a-544169312a9b)
+
 
 
 
@@ -95,5 +95,8 @@ Optional Pam8406 amplifier 2x6w amp+ pcm5102a Stereo DAC on one PCB which can be
 There is also a bluetooth version (without a speaker):
 ![IMG_4067](https://github.com/user-attachments/assets/a20ece25-72aa-4b3f-93ca-11b82eedc690)
 
+![IMG_E4071](https://github.com/user-attachments/assets/1cafccae-8f19-4aa5-95db-807c45a0d5f8)
+
 you can watch the video here:
+
 https://youtu.be/UsdidMPg164
