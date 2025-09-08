@@ -100,7 +100,7 @@ There is also a bluetooth version (without a speaker):
 you can watch the video here:
 
 
-[![Watch the video](![IMG_E4068n](https://github.com/user-attachments/assets/d61f724d-e820-43f2-b648-01477127d6d0)]
+[![Watch the video](![IMG_E4068n](https://github.com/user-attachments/assets/d61f724d-e820-43f2-b648-01477127d6d0)
 
 
 <img width="960" height="2079" alt="IMG_4120" src="https://github.com/user-attachments/assets/25ca0843-2f65-4cc2-a37c-2d5a26b93e64" />
