@@ -99,6 +99,7 @@ There is also a bluetooth version (without a speaker):
 
 you can watch the video here:
 
+
 https://youtu.be/UsdidMPg164
 
 
