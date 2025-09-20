@@ -105,6 +105,8 @@ you can watch the video here:
 [![Watch the video](https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/jb2SspnF-nk)
 
 [![Watch the video] (https://youtu.be/jb2SspnF-nk)
+[![▶ Watch the video](https://img.youtube.com/vi/jb2SspnF-nk/hqdefault.jpg)](https://youtu.be/jb2SspnF-nk)
+
 
 
 <img width="960" height="2079" alt="IMG_4120" src="https://github.com/user-attachments/assets/25ca0843-2f65-4cc2-a37c-2d5a26b93e64" />
