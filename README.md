@@ -102,6 +102,7 @@ you can watch the video here:
 
 [![Watch the video](![IMG_E4068n](https://github.com/user-attachments/assets/d61f724d-e820-43f2-b648-01477127d6d0)
 
+[![Watch the video](https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/jb2SspnF-nk)
 
 [![Watch the video] (https://youtu.be/jb2SspnF-nk)
 
